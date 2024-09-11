@@ -1,3 +1,4 @@
+<img src=”http://link-foto”>
 # taufiq0304
 i have dream in future
 # <summary><strong>Hi there :wave: , I'm Taufiq!</strong></summary>
