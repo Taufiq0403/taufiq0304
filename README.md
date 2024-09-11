@@ -20,7 +20,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://tiktok.com/yours">
+<a href="[https://tiktok.com/yours](https://www.tiktok.com/@taufiq_rkl?_t=8pdxUpfJCYE&_r=1)">
   <img align="left" alt="taufiq's Tiktok" width="20px" src="https://simpleicons.now.sh/tiktok/495f7e" />
 </a>
 <a href="https://twitter.com/yours">
