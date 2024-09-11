@@ -12,7 +12,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning Advance AI. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">taufiqhidayat240403@gmail.com</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
@@ -23,18 +23,13 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="[https://tiktok.com/yours](https://www.tiktok.com/@taufiq_rkl?_t=8pdxUpfJCYE&_r=1)">
   <img align="left" alt="taufiq's Tiktok" width="20px" src="https://simpleicons.now.sh/tiktok/495f7e" />
 </a>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="taufiq's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
+<a href="[https://www.instagram.com/yours/](https://www.facebook.com/profile.php?id=100060085104534&mibextid=ZbWKwL)">
   <img align="left" alt="taufiq's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://yours.com/">
   <img align="left" alt="taufiq's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
-Ubah link media sosial diatas dengan link media sosial kalian.
 
-Untuk Tools, kalian juga dapat menambahkan:
 
 <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
 <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
