@@ -20,11 +20,14 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
+<a href="https://tiktok.com/yours">
+  <img align="left" alt="taufiq's Tiktok" width="20px" src="https://simpleicons.now.sh/tiktok/495f7e" />
+</a>
 <a href="https://twitter.com/yours">
-  <img align="left" alt="taufiq's Twitter" width="20px" src="[https://simpleicons.now.sh/twitter/495f7e](https://x.com/dyio164346?t=Wavrje4csvijt7Svc5DT6w&s=09)" />
+  <img align="left" alt="taufiq's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/yours/">
-  <img align="left" alt="taufiq's Instagram" width="20px" src="[https://simpleicons.now.sh/instagram/495f7e](https://www.instagram.com/taufiqhidayat240403?igsh=bjh6MmNxcHcxMGZu)" />
+  <img align="left" alt="taufiq's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://yours.com/">
   <img align="left" alt="taufiq's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
